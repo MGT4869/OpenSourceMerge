@@ -1,15 +1,10 @@
 
 from csr import csrFunc
-
-
-
-
-
-
 from tkinter import *
 from tkinter.ttk import *
-#파일 여는 기능
 from tkinter.filedialog import askopenfilename
+
+
 
 """2. GUI 창"""
 root = Tk()
