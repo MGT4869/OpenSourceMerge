@@ -12,7 +12,9 @@ https://github.com/MGT4869/STTWithPy
 
 
 # 주의사항 
-# 1.음성 데이터의 파일 형식은 mp3, aac, ac3, ogg, flac, wav를 지원합니다.
-# 2.사용시 반드시 Client ID 와 Client Secret 를 대입후 사용해야 합니다.
+# 1. 음성 데이터의 파일 형식은 mp3, aac, ac3, ogg, flac, wav를 지원합니다.
+# 2. 사용시 반드시 Client ID 와 Client Secret 를 대입후 사용해야 합니다.
+# 3. 파일의 음성 용량은 3MB 이하여야 합니다.
+# 4. 파일의 음성 길이는 60초 이하여야 합니다.
 
 
